@@ -10,4 +10,6 @@ class ItcastSpider(scrapy.Spider):
     )
 
     def parse(self, response):
+
+
         pass
